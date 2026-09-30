@@ -1,0 +1,247 @@
+rank,Provider,risk_tier,claim_count,avg_claim_amt,inpatient_pct,total_reimbursed,why_flagged
+1,PRV54367,Critical,636,4927.48,50.6,3133880.0,High volume. High claim amount. Inpatient-heavy.
+2,PRV55209,Critical,762,3825.07,36.1,2914700.0,High volume. High claim amount. Inpatient-heavy.
+3,PRV53706,Critical,473,5987.19,59.6,2831940.0,High volume. High claim amount. Inpatient-heavy.
+4,PRV55230,Critical,565,4624.32,39.8,2612740.0,High volume. High claim amount. Inpatient-heavy.
+5,PRV54955,Critical,314,6799.01,65.3,2134890.0,High volume. High claim amount. Inpatient-heavy.
+6,PRV52846,Critical,241,8784.27,72.6,2117010.0,High volume. High claim amount. Inpatient-heavy.
+7,PRV51501,Critical,233,8889.74,95.7,2071310.0,High volume. High claim amount. Inpatient-heavy.
+8,PRV54765,Critical,239,8370.29,82.0,2000500.0,High volume. High claim amount. Inpatient-heavy.
+9,PRV51940,Critical,251,7937.33,76.9,1992270.0,High volume. High claim amount. Inpatient-heavy.
+10,PRV51560,Critical,238,8219.29,84.0,1956190.0,High volume. High claim amount. Inpatient-heavy.
+11,PRV53808,Critical,493,3909.23,39.6,1927250.0,High volume. High claim amount. Inpatient-heavy.
+12,PRV53712,Critical,237,7942.7,67.9,1882420.0,High volume. High claim amount. Inpatient-heavy.
+13,PRV55019,Critical,285,6515.86,55.4,1857020.0,High volume. High claim amount. Inpatient-heavy.
+14,PRV52135,Critical,263,6941.25,79.8,1825550.0,High volume. High claim amount. Inpatient-heavy.
+15,PRV54894,Critical,229,7672.75,60.3,1757060.0,High volume. High claim amount. Inpatient-heavy.
+16,PRV55194,Critical,421,4040.14,40.1,1700900.0,High volume. High claim amount. Inpatient-heavy.
+17,PRV53769,Critical,377,4469.97,35.0,1685180.0,High volume. High claim amount. Inpatient-heavy.
+18,PRV51146,Critical,352,4775.31,46.0,1680910.0,High volume. High claim amount. Inpatient-heavy.
+19,PRV51390,Critical,275,5844.58,59.6,1607260.0,High volume. High claim amount. Inpatient-heavy.
+20,PRV52574,Critical,259,5922.12,56.4,1533830.0,High volume. High claim amount. Inpatient-heavy.
+21,PRV51614,Critical,268,5493.1,55.2,1472150.0,High volume. High claim amount. Inpatient-heavy.
+22,PRV52123,Critical,256,5652.89,63.3,1447140.0,High volume. High claim amount. Inpatient-heavy.
+23,PRV53692,Critical,244,5727.87,59.8,1397600.0,High volume. High claim amount. Inpatient-heavy.
+24,PRV52065,Critical,325,3847.02,35.7,1250280.0,High volume. High claim amount. Inpatient-heavy.
+25,PRV51842,Critical,294,4151.7,39.8,1220600.0,High volume. High claim amount. Inpatient-heavy.
+26,PRV54258,Critical,238,5114.5,49.6,1217250.0,High volume. High claim amount. Inpatient-heavy.
+27,PRV57502,Critical,260,4605.96,43.8,1197550.0,High volume. High claim amount. Inpatient-heavy.
+28,PRV53242,Critical,259,4541.66,40.5,1176290.0,High volume. High claim amount. Inpatient-heavy.
+29,PRV53401,Critical,303,3772.31,42.9,1143010.0,High volume. High claim amount. Inpatient-heavy.
+30,PRV53884,Critical,269,3866.06,43.5,1039970.0,High volume. High claim amount. Inpatient-heavy.
+31,PRV56588,Critical,269,3831.23,37.2,1030600.0,High volume. High claim amount. Inpatient-heavy.
+32,PRV53266,Critical,257,3790.31,34.2,974110.0,High volume. High claim amount. Inpatient-heavy.
+33,PRV51145,High,202,7952.23,79.7,1606350.0,High claim amount. Inpatient-heavy.
+34,PRV51471,High,180,8901.17,89.4,1602210.0,High claim amount. Inpatient-heavy.
+35,PRV52903,High,200,7840.55,83.5,1568110.0,High claim amount. Inpatient-heavy.
+36,PRV52100,High,201,7627.61,81.6,1533150.0,High claim amount. Inpatient-heavy.
+37,PRV52173,High,119,11608.4,100.0,1381400.0,High claim amount. Inpatient-heavy.
+38,PRV52178,High,136,10144.04,97.8,1379590.0,High claim amount. Inpatient-heavy.
+39,PRV52642,High,436,3046.42,33.5,1328240.0,High volume. Inpatient-heavy.
+40,PRV55444,High,128,10259.84,89.1,1313260.0,High claim amount. Inpatient-heavy.
+41,PRV55916,High,127,10323.15,90.6,1311040.0,High claim amount. Inpatient-heavy.
+42,PRV56647,High,183,7043.22,66.1,1288910.0,High claim amount. Inpatient-heavy.
+43,PRV55849,High,176,7293.92,72.7,1283730.0,High claim amount. Inpatient-heavy.
+44,PRV55435,High,151,8278.48,84.8,1250050.0,High claim amount. Inpatient-heavy.
+45,PRV52590,High,208,5901.83,55.3,1227580.0,High claim amount. Inpatient-heavy.
+46,PRV51378,High,161,7548.88,67.1,1215370.0,High claim amount. Inpatient-heavy.
+47,PRV54936,High,221,5157.15,59.3,1139730.0,High claim amount. Inpatient-heavy.
+48,PRV51149,High,148,7572.16,78.4,1120680.0,High claim amount. Inpatient-heavy.
+49,PRV51868,High,144,7636.88,69.4,1099710.0,High claim amount. Inpatient-heavy.
+50,PRV51119,High,95,11374.53,98.9,1080580.0,High claim amount. Inpatient-heavy.
+51,PRV57548,High,210,5090.71,51.0,1069050.0,High claim amount. Inpatient-heavy.
+52,PRV55676,High,167,6229.34,68.9,1040300.0,High claim amount. Inpatient-heavy.
+53,PRV51456,High,135,7696.22,83.0,1038990.0,High claim amount. Inpatient-heavy.
+54,PRV53421,High,129,7751.24,73.6,999910.0,High claim amount. Inpatient-heavy.
+55,PRV51542,High,113,8536.81,82.3,964660.0,High claim amount. Inpatient-heavy.
+56,PRV54348,High,217,4423.41,41.9,959880.0,High claim amount. Inpatient-heavy.
+57,PRV53959,High,214,4190.79,35.5,896830.0,High claim amount. Inpatient-heavy.
+58,PRV55531,High,122,7263.36,88.5,886130.0,High claim amount. Inpatient-heavy.
+59,PRV51421,High,139,6365.32,60.4,884780.0,High claim amount. Inpatient-heavy.
+60,PRV52989,High,177,4986.38,39.5,882590.0,High claim amount. Inpatient-heavy.
+61,PRV53697,High,114,7712.89,62.3,879270.0,High claim amount. Inpatient-heavy.
+62,PRV54918,High,166,5270.24,42.8,874860.0,High claim amount. Inpatient-heavy.
+63,PRV51160,High,114,7649.3,78.9,872020.0,High claim amount. Inpatient-heavy.
+64,PRV55048,High,94,9215.32,87.2,866240.0,High claim amount. Inpatient-heavy.
+65,PRV51495,High,141,5997.8,63.8,845690.0,High claim amount. Inpatient-heavy.
+66,PRV56007,High,81,10332.47,85.2,836930.0,High claim amount. Inpatient-heavy.
+67,PRV56761,High,117,7112.99,78.6,832220.0,High claim amount. Inpatient-heavy.
+68,PRV56438,High,133,6220.3,48.1,827300.0,High claim amount. Inpatient-heavy.
+69,PRV54981,High,95,8597.16,85.3,816730.0,High claim amount. Inpatient-heavy.
+70,PRV57341,High,177,4612.15,43.5,816350.0,High claim amount. Inpatient-heavy.
+71,PRV56350,High,158,5142.59,41.8,812530.0,High claim amount. Inpatient-heavy.
+72,PRV53961,High,129,6290.39,75.2,811460.0,High claim amount. Inpatient-heavy.
+73,PRV52003,High,154,5239.94,50.0,806950.0,High claim amount. Inpatient-heavy.
+74,PRV55905,High,95,8313.26,86.3,789760.0,High claim amount. Inpatient-heavy.
+75,PRV52279,High,83,9437.35,98.8,783300.0,High claim amount. Inpatient-heavy.
+76,PRV51590,High,84,9302.14,96.4,781380.0,High claim amount. Inpatient-heavy.
+77,PRV55483,High,76,10237.37,85.5,778040.0,High claim amount. Inpatient-heavy.
+78,PRV54781,High,205,3788.1,34.6,776560.0,High claim amount. Inpatient-heavy.
+79,PRV57481,High,62,12516.13,100.0,776000.0,High claim amount. Inpatient-heavy.
+80,PRV56134,High,62,12387.1,100.0,768000.0,High claim amount. Inpatient-heavy.
+81,PRV55912,High,107,7010.09,56.1,750080.0,High claim amount. Inpatient-heavy.
+82,PRV51030,High,171,4326.08,48.0,739760.0,High claim amount. Inpatient-heavy.
+83,PRV53763,High,58,12741.38,100.0,739000.0,High claim amount. Inpatient-heavy.
+84,PRV51523,High,65,11289.38,92.3,733810.0,High claim amount. Inpatient-heavy.
+85,PRV56592,High,118,6205.42,53.4,732240.0,High claim amount. Inpatient-heavy.
+86,PRV55172,High,114,6382.46,48.2,727600.0,High claim amount. Inpatient-heavy.
+87,PRV55049,High,148,4899.66,50.7,725150.0,High claim amount. Inpatient-heavy.
+88,PRV55022,High,137,5232.48,55.5,716850.0,High claim amount. Inpatient-heavy.
+89,PRV56103,High,116,5964.31,58.6,691860.0,High claim amount. Inpatient-heavy.
+90,PRV57310,High,122,5519.84,53.3,673420.0,High claim amount. Inpatient-heavy.
+91,PRV56481,High,128,5225.86,60.9,668910.0,High claim amount. Inpatient-heavy.
+92,PRV53938,High,111,5888.92,73.9,653670.0,High claim amount. Inpatient-heavy.
+93,PRV54337,High,149,4298.72,43.0,640510.0,High claim amount. Inpatient-heavy.
+94,PRV56478,High,152,4202.96,44.1,638850.0,High claim amount. Inpatient-heavy.
+95,PRV56668,High,73,8540.68,71.2,623470.0,High claim amount. Inpatient-heavy.
+96,PRV52847,High,92,6711.2,67.4,617430.0,High claim amount. Inpatient-heavy.
+97,PRV54896,High,159,3879.62,35.2,616860.0,High claim amount. Inpatient-heavy.
+98,PRV55018,High,75,8212.53,84.0,615940.0,High claim amount. Inpatient-heavy.
+99,PRV51003,High,132,4588.41,47.0,605670.0,High claim amount. Inpatient-heavy.
+100,PRV56630,High,159,3756.16,39.6,597230.0,High claim amount. Inpatient-heavy.
+101,PRV52283,High,66,9010.61,100.0,594700.0,High claim amount. Inpatient-heavy.
+102,PRV56541,High,54,10814.81,100.0,584000.0,High claim amount. Inpatient-heavy.
+103,PRV56550,High,80,6936.13,68.8,554890.0,High claim amount. Inpatient-heavy.
+104,PRV56260,High,59,9330.68,93.2,550510.0,High claim amount. Inpatient-heavy.
+105,PRV54077,High,76,7070.0,68.4,537320.0,High claim amount. Inpatient-heavy.
+106,PRV52898,High,114,4701.14,42.1,535930.0,High claim amount. Inpatient-heavy.
+107,PRV56001,High,70,7551.0,81.4,528570.0,High claim amount. Inpatient-heavy.
+108,PRV51249,High,126,4137.54,40.5,521330.0,High claim amount. Inpatient-heavy.
+109,PRV55005,High,130,3975.23,43.1,516780.0,High claim amount. Inpatient-heavy.
+110,PRV54093,High,89,5786.29,46.1,514980.0,High claim amount. Inpatient-heavy.
+111,PRV55846,High,127,4028.9,36.2,511670.0,High claim amount. Inpatient-heavy.
+112,PRV56421,High,133,3840.23,34.6,510750.0,High claim amount. Inpatient-heavy.
+113,PRV55482,High,83,6135.54,49.4,509250.0,High claim amount. Inpatient-heavy.
+114,PRV57697,High,66,7691.67,72.7,507650.0,High claim amount. Inpatient-heavy.
+115,PRV52459,High,50,10118.0,100.0,505900.0,High claim amount. Inpatient-heavy.
+116,PRV57406,High,68,7433.24,67.6,505460.0,High claim amount. Inpatient-heavy.
+117,PRV56123,High,40,12450.0,100.0,498000.0,High claim amount. Inpatient-heavy.
+118,PRV54724,High,71,6980.99,67.6,495650.0,High claim amount. Inpatient-heavy.
+119,PRV56555,High,69,7171.01,85.5,494800.0,High claim amount. Inpatient-heavy.
+120,PRV54577,High,61,8098.52,73.8,494010.0,High claim amount. Inpatient-heavy.
+121,PRV52128,High,113,4358.85,46.9,492550.0,High claim amount. Inpatient-heavy.
+122,PRV57098,High,49,10000.0,100.0,490000.0,High claim amount. Inpatient-heavy.
+123,PRV52151,High,121,3918.26,38.8,474110.0,High claim amount. Inpatient-heavy.
+124,PRV54560,High,98,4827.35,40.8,473080.0,High claim amount. Inpatient-heavy.
+125,PRV51951,High,102,4637.35,47.1,473010.0,High claim amount. Inpatient-heavy.
+126,PRV57345,High,88,5287.73,48.9,465320.0,High claim amount. Inpatient-heavy.
+127,PRV52556,High,115,4041.39,40.0,464760.0,High claim amount. Inpatient-heavy.
+128,PRV52266,High,37,12443.24,100.0,460400.0,High claim amount. Inpatient-heavy.
+129,PRV53802,High,80,5748.38,57.5,459870.0,High claim amount. Inpatient-heavy.
+130,PRV52152,High,88,5163.18,53.4,454360.0,High claim amount. Inpatient-heavy.
+131,PRV55550,High,58,7813.79,63.8,453200.0,High claim amount. Inpatient-heavy.
+132,PRV53396,High,99,4571.72,45.5,452600.0,High claim amount. Inpatient-heavy.
+133,PRV57334,High,68,6618.82,57.4,450080.0,High claim amount. Inpatient-heavy.
+134,PRV55193,High,44,10099.55,70.5,444380.0,High claim amount. Inpatient-heavy.
+135,PRV51490,High,64,6907.34,75.0,442070.0,High claim amount. Inpatient-heavy.
+136,PRV54504,High,120,3624.33,36.7,434920.0,High claim amount. Inpatient-heavy.
+137,PRV52868,High,110,3946.55,38.2,434120.0,High claim amount. Inpatient-heavy.
+138,PRV56808,High,62,6993.71,75.8,433610.0,High claim amount. Inpatient-heavy.
+139,PRV52862,High,76,5692.89,73.7,432660.0,High claim amount. Inpatient-heavy.
+140,PRV51178,High,65,6633.54,52.3,431180.0,High claim amount. Inpatient-heavy.
+141,PRV52359,High,107,3985.33,39.3,426430.0,High claim amount. Inpatient-heavy.
+142,PRV53461,High,36,11807.78,38.9,425080.0,High claim amount. Inpatient-heavy.
+143,PRV52634,High,87,4884.48,66.7,424950.0,High claim amount. Inpatient-heavy.
+144,PRV54675,High,37,11405.41,100.0,422000.0,High claim amount. Inpatient-heavy.
+145,PRV55023,High,64,6564.84,53.1,420150.0,High claim amount. Inpatient-heavy.
+146,PRV53225,High,49,8475.51,100.0,415300.0,High claim amount. Inpatient-heavy.
+147,PRV57081,High,37,11189.19,100.0,414000.0,High claim amount. Inpatient-heavy.
+148,PRV51474,High,71,5792.39,57.7,411260.0,High claim amount. Inpatient-heavy.
+149,PRV52044,High,79,5175.06,54.4,408830.0,High claim amount. Inpatient-heavy.
+150,PRV52281,High,41,9951.22,100.0,408000.0,High claim amount. Inpatient-heavy.
+151,PRV53007,High,96,4172.29,38.5,400540.0,High claim amount. Inpatient-heavy.
+152,PRV57495,High,113,3544.51,32.7,400530.0,High claim amount. Inpatient-heavy.
+153,PRV52280,High,41,9634.15,100.0,395000.0,High claim amount. Inpatient-heavy.
+154,PRV53142,High,111,3550.0,35.1,394050.0,High claim amount. Inpatient-heavy.
+155,PRV52126,High,110,3534.82,35.5,388830.0,High claim amount. Inpatient-heavy.
+156,PRV57316,High,85,4528.47,45.9,384920.0,High claim amount. Inpatient-heavy.
+157,PRV51857,High,57,6727.89,45.6,383490.0,High claim amount. Inpatient-heavy.
+158,PRV55667,High,38,10057.37,100.0,382180.0,High claim amount. Inpatient-heavy.
+159,PRV52136,High,104,3655.67,38.5,380190.0,High claim amount. Inpatient-heavy.
+160,PRV54653,High,70,5396.29,57.1,377740.0,High claim amount. Inpatient-heavy.
+161,PRV54692,High,72,5220.56,66.7,375880.0,High claim amount. Inpatient-heavy.
+162,PRV54676,High,40,9380.0,100.0,375200.0,High claim amount. Inpatient-heavy.
+163,PRV52308,High,87,4307.59,46.0,374760.0,High claim amount. Inpatient-heavy.
+164,PRV55452,High,60,6207.17,51.7,372430.0,High claim amount. Inpatient-heavy.
+165,PRV55509,High,39,9295.13,71.8,362510.0,High claim amount. Inpatient-heavy.
+166,PRV52073,High,64,5613.28,43.8,359250.0,High claim amount. Inpatient-heavy.
+167,PRV53008,High,52,6800.0,75.0,353600.0,High claim amount. Inpatient-heavy.
+168,PRV52578,High,49,7205.1,75.5,353050.0,High claim amount. Inpatient-heavy.
+169,PRV54390,High,95,3713.26,40.0,352760.0,High claim amount. Inpatient-heavy.
+170,PRV52131,High,84,4163.81,36.9,349760.0,High claim amount. Inpatient-heavy.
+171,PRV52148,High,78,4425.0,53.8,345150.0,High claim amount. Inpatient-heavy.
+172,PRV55433,High,87,3931.26,36.8,342020.0,High claim amount. Inpatient-heavy.
+173,PRV55443,High,38,8983.95,78.9,341390.0,High claim amount. Inpatient-heavy.
+174,PRV54266,High,65,5218.15,32.3,339180.0,High claim amount. Inpatient-heavy.
+175,PRV53384,High,62,5405.16,61.3,335120.0,High claim amount. Inpatient-heavy.
+176,PRV55374,High,33,10151.52,100.0,335000.0,High claim amount. Inpatient-heavy.
+177,PRV57018,High,33,10081.52,72.7,332690.0,High claim amount. Inpatient-heavy.
+178,PRV57555,High,42,7875.71,64.3,330780.0,High claim amount. Inpatient-heavy.
+179,PRV56012,High,44,7406.14,65.9,325870.0,High claim amount. Inpatient-heavy.
+180,PRV55891,High,51,6131.96,51.0,312730.0,High claim amount. Inpatient-heavy.
+181,PRV56730,High,54,5628.7,42.6,303950.0,High claim amount. Inpatient-heavy.
+182,PRV53787,High,74,4101.08,43.2,303480.0,High claim amount. Inpatient-heavy.
+183,PRV55939,High,51,5916.86,54.9,301760.0,High claim amount. Inpatient-heavy.
+184,PRV55908,High,55,5359.82,40.0,294790.0,High claim amount. Inpatient-heavy.
+185,PRV54881,High,39,7551.54,84.6,294510.0,High claim amount. Inpatient-heavy.
+186,PRV54657,High,46,6352.61,37.0,292220.0,High claim amount. Inpatient-heavy.
+187,PRV56396,High,83,3486.51,38.6,289380.0,High claim amount. Inpatient-heavy.
+188,PRV56349,High,61,4725.9,50.8,288280.0,High claim amount. Inpatient-heavy.
+189,PRV54058,High,35,8114.29,100.0,284000.0,High claim amount. Inpatient-heavy.
+190,PRV56669,High,40,7090.25,72.5,283610.0,High claim amount. Inpatient-heavy.
+191,PRV55495,High,51,5542.35,47.1,282660.0,High claim amount. Inpatient-heavy.
+192,PRV55492,High,42,6713.81,59.5,281980.0,High claim amount. Inpatient-heavy.
+193,PRV57223,High,54,5195.0,63.0,280530.0,High claim amount. Inpatient-heavy.
+194,PRV54933,High,64,4268.75,45.3,273200.0,High claim amount. Inpatient-heavy.
+195,PRV53792,High,53,5141.7,62.3,272510.0,High claim amount. Inpatient-heavy.
+196,PRV51960,High,48,5555.0,43.8,266640.0,High claim amount. Inpatient-heavy.
+197,PRV54324,High,32,8312.5,100.0,266000.0,High claim amount. Inpatient-heavy.
+198,PRV56105,High,32,8267.81,90.6,264570.0,High claim amount. Inpatient-heavy.
+199,PRV52265,High,30,8666.67,100.0,260000.0,High claim amount. Inpatient-heavy.
+200,PRV54559,High,66,3872.12,36.4,255560.0,High claim amount. Inpatient-heavy.
+201,PRV53671,High,55,4610.73,56.4,253590.0,High claim amount. Inpatient-heavy.
+202,PRV54931,High,52,4779.62,46.2,248540.0,High claim amount. Inpatient-heavy.
+203,PRV52142,High,59,4212.2,47.5,248520.0,High claim amount. Inpatient-heavy.
+204,PRV52831,High,31,7997.42,64.5,247920.0,High claim amount. Inpatient-heavy.
+205,PRV53749,High,69,3497.83,34.8,241350.0,High claim amount. Inpatient-heavy.
+206,PRV52146,High,40,6017.75,60.0,240710.0,High claim amount. Inpatient-heavy.
+207,PRV55236,High,54,4393.7,37.0,237260.0,High claim amount. Inpatient-heavy.
+208,PRV51431,High,49,4831.02,51.0,236720.0,High claim amount. Inpatient-heavy.
+209,PRV52474,High,37,6182.97,59.5,228770.0,High claim amount. Inpatient-heavy.
+210,PRV53951,High,54,4141.11,40.7,223620.0,High claim amount. Inpatient-heavy.
+211,PRV55970,High,40,5535.0,40.0,221400.0,High claim amount. Inpatient-heavy.
+212,PRV52828,High,44,5023.86,52.3,221050.0,High claim amount. Inpatient-heavy.
+213,PRV55540,High,31,7130.32,74.2,221040.0,High claim amount. Inpatient-heavy.
+214,PRV51263,High,44,4958.41,40.9,218170.0,High claim amount. Inpatient-heavy.
+215,PRV53937,High,38,5736.05,44.7,217970.0,High claim amount. Inpatient-heavy.
+216,PRV57033,High,53,4100.57,32.1,217330.0,High claim amount. Inpatient-heavy.
+217,PRV56445,High,55,3922.73,58.2,215750.0,High claim amount. Inpatient-heavy.
+218,PRV57340,High,41,4984.39,41.5,204360.0,High claim amount. Inpatient-heavy.
+219,PRV51077,High,33,6192.42,48.5,204350.0,High claim amount. Inpatient-heavy.
+220,PRV55903,High,50,3956.4,46.0,197820.0,High claim amount. Inpatient-heavy.
+221,PRV54356,High,31,6302.26,48.4,195370.0,High claim amount. Inpatient-heavy.
+222,PRV54760,High,31,6293.23,77.4,195090.0,High claim amount. Inpatient-heavy.
+223,PRV57227,High,52,3688.46,40.4,191800.0,High claim amount. Inpatient-heavy.
+224,PRV53441,High,38,4937.11,36.8,187610.0,High claim amount. Inpatient-heavy.
+225,PRV56703,High,48,3876.46,43.8,186070.0,High claim amount. Inpatient-heavy.
+226,PRV53673,High,36,5045.28,38.9,181630.0,High claim amount. Inpatient-heavy.
+227,PRV52621,High,45,4006.22,53.3,180280.0,High claim amount. Inpatient-heavy.
+228,PRV57231,High,48,3735.42,37.5,179300.0,High claim amount. Inpatient-heavy.
+229,PRV56002,High,32,5556.56,34.4,177810.0,High claim amount. Inpatient-heavy.
+230,PRV52588,High,50,3532.4,34.0,176620.0,High claim amount. Inpatient-heavy.
+231,PRV55381,High,45,3860.0,44.4,173700.0,High claim amount. Inpatient-heavy.
+232,PRV52188,High,33,5184.24,42.4,171080.0,High claim amount. Inpatient-heavy.
+233,PRV56746,High,43,3977.44,34.9,171030.0,High claim amount. Inpatient-heavy.
+234,PRV56877,High,44,3872.95,34.1,170410.0,High claim amount. Inpatient-heavy.
+235,PRV54737,High,35,4843.14,37.1,169510.0,High claim amount. Inpatient-heavy.
+236,PRV57169,High,31,5221.94,54.8,161880.0,High claim amount. Inpatient-heavy.
+237,PRV55709,High,43,3734.65,37.2,160590.0,High claim amount. Inpatient-heavy.
+238,PRV52396,High,40,3907.5,42.5,156300.0,High claim amount. Inpatient-heavy.
+239,PRV52998,High,33,4581.52,45.5,151190.0,High claim amount. Inpatient-heavy.
+240,PRV56570,High,30,5031.33,43.3,150940.0,High claim amount. Inpatient-heavy.
+241,PRV56014,High,34,4266.18,55.9,145050.0,High claim amount. Inpatient-heavy.
+242,PRV54215,High,31,4657.1,45.2,144370.0,High claim amount. Inpatient-heavy.
+243,PRV53381,High,33,4185.45,33.3,138120.0,High claim amount. Inpatient-heavy.
+244,PRV56140,High,31,4212.9,51.6,130600.0,High claim amount. Inpatient-heavy.
+245,PRV57372,High,32,3867.19,46.9,123750.0,High claim amount. Inpatient-heavy.
+246,PRV57427,High,30,3786.33,46.7,113590.0,High claim amount. Inpatient-heavy.
